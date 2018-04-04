@@ -1,0 +1,30 @@
+* {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+body {
+  font-size: 14px;
+  background: #E5E5E5;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a {
+  text-decoration: underline; 
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+.underline {
+  margin-top: 20px;
+  font-size: 30px;
+  border-bottom: 2px solid currentColor;
+  display: inline-block;
+  line-height: 0.85;
+  text-shadow:
+    1px 1px #E5E5E5,
+    1px -3px #E5E5E5,
+    -1px 1px #E5E5E5,
+    -1px -3px #E5E5E5;
+}

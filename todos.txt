@@ -1,0 +1,10 @@
+first:
+- fix navbar hover menu
+
+then:
+- Store, ServCat, ProdSel
+- mobile Store, ServCat, ProdSel
+
+finally:
+- fonts
+- transitions: https://www.w3schools.com/css/css3_transitions.asp
