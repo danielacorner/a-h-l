@@ -1,0 +1,13 @@
+(most recent first)
+
+- Pave 2.0 -- dcorn068.github.io/Pave-D3
+
+	Pave is an interactive job explorer app using JavaScript's D3 library. 
+	It aims to help high school students make informed decisions on their education and career pathways using a data-driven model of the Canadian job market.
+
+	Client: Ministry Of Advanced Education And Skills Development Ontario
+
+	Status: currently undergoing user testing with high school students and iterating the second prototype.
+	//////////////////////
+	My role: Lead developer and data engineer
+	My team: One user experience designer and two policy analysts 
