@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Adrianne H Lee</title>
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<!-- Bootstrap -->
+	<script type='text/javascript' src='js/bootstrap.js'></script>
+	<!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.css"> -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+	<!-- fontawesome icons -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+	<!-- Open Sans font -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<!-- stylesheet -->
+	<link rel="stylesheet" href="css/main.css">
+
+</head>
+<body>
+	
+
+	<!-- Collapsible Navigation Bar (medium and smaller) -->
+	<div id="navbar-collapsible" class="container">
+		<!-- .navbar-fixed-top, or .navbar-fixed-bottom can be added to keep the nav bar fixed on the screen -->
+		<nav id="nav-1" class="navbar navbar-dark navbar-toggleable-md fixed-top" style="position: absolute;">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<a class="navbar-brand" href="index.html">
+				<img src="img/Adrianne_H_Lee.png" id="logo-small" width="72%" height="80%">
+			</a>
+			<!-- dropdown button -->
+			<button class="custom-toggler navbar-toggler navbar-toggler-right" type="button" >
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+		</nav>
+	</div>
+
+	<div id="navbarContainer">
+		<ul id="navbarContent" class="navbar-nav mr-auto">
+			<li class="nav-item">
+				<a class="nav-link" href="index.html">About</a>
+			</li>
+			<li class="nav-item">
+				<a id="navbarDropdown-1" class="nav-link" href="work.html">
+					Work
+				</a>
+				<ul class="work-dropdown-content">
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="services-catalogue.html">Services Catalogue</a></li>
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="financial-products-selector.html" >Financial Products Selector</a></li>
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="the-store.html" >The Store</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<!-- end of collapsible navbar -->
+
+	<!-- Full Navigation Bar (large) -->
+	<div id="navbar-container-full" class="container">
+		<!-- .navbar-fixed-top, or .navbar-fixed-bottom can be added to keep the nav bar fixed on the screen -->
+		<nav id="nav-full" class="navbar navbar-dark fixed-top">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<a class="navbar-brand" align="center" href="index.html" style="margin-left: -10%">
+				<img  id="logo-full" src="img/Adrianne_H_Lee.png" width="50%" height="50%" style="margin-bottom: 5px; margin-right: 10%">
+			</a>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="right-side">
+				<a class="nav-link nav-link-full" href="index.html" >
+				About</a>
+				<div class="dropdown">
+					<a class="dropbtn nav-link nav-link-full" href="work.html">Work&nbsp;&#9662;
+					</a>
+					<div id="work-dropdown-full">
+						<a class="dropdown-content-large" href="services-catalogue.html">Services Catalogue</a>
+						<a class="dropdown-content-large" href="financial-products-selector.html">Financial Products Selector</a>
+						<a class="dropdown-content-large" href="the-store.html">The Store</a>
+					</div>
+					<!-- end of work dropdown full -->
+				</div><!-- end of dropdown -->
+			</div>
+			<!-- /.right-side -->
+
+		</nav>
+	</div>
+	<!-- end of full navbar -->
+	
+
+
+
+	<!-- Work | The store, Services catalogue, Financial products selector (large) -->
+
+	<div id="body-text-work-item">
+
+		<h1 id="titleOfWork">Services Catalogue</h1>
+		<hr style="border-color: black; border-width: 2px; ">
+
+
+		<div class="subheading-content">
+
+			<div class="subheading-column sub-heading-column-1">
+				<p class="subheading-p subheading-p-1"><strong>Client:</strong> House of Commons (HoC), Information Services</p>
+				<p class="subheading-p subheading-p-1"><strong>Timeline:</strong>&nbsp;2 months</p>
+				<p class="subheading-p subheading-p-1"><strong>Tools:</strong> Treejack, Excel</p>
+			</div> <!-- subheading-column -->
+
+			<div class="subheading-column sub-heading-column-2">
+				<p class="subheading-p subheading-p-2"><strong>My contribution:</strong> Information architecture development, test design, execution, analysis, usability review, and reporting</p>
+				<p class="subheading-p subheading-p-2"><strong>Team:</strong>&nbsp;An information architect and myself</p>
+			</div> <!-- subheading-column -->
+
+		</div> <!-- subheading-content -->
+
+		<hr class="hr-bottom" style="border-color: black; border-width: 2px; ">
+
+
+		<h2>Project Overview</h2>
+
+
+		<p>House of Commons’ (HoC) Information Services (IS) provides a wide range of services to the employees at HoC. They needed <strong>a digital and telephonic interface where employees request and update service requests</strong>. As part of designing this interface, this project focused on the creating an information architecture to best support IS’s services. To determine the best way of organizing the catalogue,<strong> two IA concepts were developed to test on Treejack: a product/topic-based IA and an action-based IA.</strong></p>
+
+
+		<h2>Challenges</h2>
+
+
+		<ul class="ul-unindent">
+			<li>IS is responsible for a great number and variety of services – many more than a BestBuy or an Apple store, as they provide hardware, software, internet services, and security services, as well as administrative services, such as resetting an account password. This variety created a number of challenges:
+				<ul class="ul-unindent sub-list">
+					<li>Creating neat and mutually exclusive top-level categories of information</li>
+					<li>Creating IAs that were distinctly product-based and action-based, instead of &nbsp;a lukewarm mix of the two concepts</li>
+				</ul>
+			</li>
+			<li>The IAs were developed with the aim of having similar levels of usability (using similar language, a&nbsp;similar number of top-level items, etc.). Equal levels of usability were difficult to achieve accurately because the IAs could not be measured throughout the development process.</li>
+		</ul>
+
+		<h2>Outcomes</h2>
+
+
+		<ul class="ul-unindent">
+			<li>Both models scored similarly in all areas of evaluation (Time taken, Success, Directness).</li>
+			<li>The product-based IA performed better, by a small margin, in all areas of evaluation.</li>
+			<li>The results of this user research were recommended to design the Service Catalogue’s full IA.</li>
+		</ul>
+
+
+		<h2>IA Top Levels</h2>
+
+
+		<p><strong>Information architecture (IA)</strong> is the structure that underlies an&nbsp;interface like HoC’s Service Catalogue. It outlines how information will be organized to maximize&nbsp;user understanding. In the case of the Service Catalogue, the IA explains how and which words will be used at each stage of the catalogue’s interface (menu, page options).</p>
+		<p>Four levels of the menu/IA were developed for each of two approaches to the IA design. The Action-based IA presented first an action, then the product (ex. Fix &gt; Computer). The Product-based IA presented first a product, then the action (ex. Computer &gt; Fix).</p>
+		<p>To illustrate the two approaches, below are the top-level items only for each approach:</p>
+
+		<div class="row">
+			<div class="center-listbox column-1">
+				<h4><strong>Action-based</strong> IA Top Levels:</h4>
+				<ul>
+					<li>Track request status</li>
+					<li>Discuss service/product options with IS</li>
+					<li>Report an issue</li>
+					<li>Manage accounts</li>
+					<li>Acquire connection and building access</li>
+					<li>Acquire device</li>
+					<li>Configure connection</li>
+					<li>Configure device and office setup</li>
+					<li>Configure software</li>
+					<li>Training &amp; How-to</li>
+				</ul>
+			</div>
+
+			<div class="center-listbox column-2">
+				<h4><strong>Product-based</strong> IA Top Levels:</h4>
+				<ul>
+					<li>Track request status</li>
+					<li>Passwords</li>
+					<li>Internet and network access</li>
+					<li>Accounts</li>
+					<li>Devices and office setup</li>
+					<li>Device plans</li>
+					<li>Software</li>
+					<li>Security</li>
+				</ul>
+			</div>
+		</div>
+
+<div class="row_images">
+		<div class="image_div >
+			<a href="img/Action-based-IA.png">
+				<img class="image" src="img/Action-based-IA.png" alt="">
+				<div class="expand_overlay">
+					<i class="fas fa-2x fa-plus-circle"></i>
+				</div>
+			</a>
+		</div>
+		<div class="image_div >
+			<a href="img/Product-based-IA.png">
+				<img class="image" src="img/Product-based-IA.png" alt="">
+				<div class="expand_overlay">
+					<i class="fas fa-2x fa-plus-circle"></i>
+				</div>
+			</a>
+		</div>
+</div>
+
+
+		<h2>Treejack Test Findings</h2>
+
+
+		<p>The two IA concepts were loaded onto Treejack, an online usability testing software. Treejack presents to test participants the levels of the IA without any visuals, allowing the research to zoom in on the IA.</p>
+		<p>A total of 40 participants took part in the research, with roughly half taking the Action-based IA test and the other half taking the Product-based IA test. All participants were given the same ten tasks to complete.</p>
+
+
+		<p>The Product-based IA had better results, presumably because it&nbsp;had fewer options in the top level.</p>
+		<p>Looking at the results task-by-task, it was clear that both IAs relied too heavily on the participants’ knowledge of the process (choosing the right actions) and typology of products (choosing the right product category) to complete their tasks successfully.</p>
+
+
+<div class="row_images">
+		<div class="image_div image_hover_overlay">
+			<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
+				<img src="img/Treejack-xtvrf8qo-Task-9-action-radial.png" alt class="image"="">
+				<div class="expand_overlay">
+					<i class="fas fa-2x fa-plus-circle"></i>
+				</div>
+			</a>
+		</div>
+		<div class="image_div image_hover_overlay">
+			<a href="img/Treejack-o7p8i63e-Task-9-action-radial.png">
+				<img src="img/Treejack-o7p8i63e-Task-9-action-radial.png" alt class="image"="">
+				<div class="expand_overlay">
+					<i class="fas fa-2x fa-plus-circle"></i>
+				</div>
+			</a>
+		</div>
+		<div class="image_div image_hover_overlay">
+			<a href="img/Treejack-o7p8i63e-Task-10-action-radial.png">
+				<img src="img/Treejack-o7p8i63e-Task-10-action-radial.png" alt class="image"="">
+				<div class="expand_overlay">
+					<i class="fas fa-2x fa-plus-circle"></i>
+				</div>
+			</a>
+		</div>
+</div>
+
+
+		<p>An IA approach that integrates both products and actions was recommended. As HoC plans to have the Service Catalogue on a telephone menu, the recommended IA follows industry best practices of having 5-8 items in the top level of a phone-operated menu.</p>
+
+		<div class="row row-single">
+			<div class="center-listbox center-listbox-single">
+				<h4><strong>Recommended</strong>&nbsp;IA Top Levels:</h4>
+				<ul class="ul-unindent">
+					<li>Advice, Issue Reporting, or Request Status</li>
+					<li>Accounts and Passwords</li>
+					<li>Internet and Network Access</li>
+					<li>Electronics and Plans</li>
+					<li>Software</li>
+					<li>Building Access</li>
+					<li>Office Setup</li>
+				</ul>
+			</div>
+		</div>
+
+		<h2>What I learned</h2>
+
+		<ul class="ul-unindent" style="margin-bottom: 170px">
+			<li>Some tasks assigned in the Treejack test could have used more context (Some participants didn’t have the knowledge required to complete a task).</li>
+			<li>Creating criteria around the full context of the IA (how many levels are possible, how does the telephone menu work) could have better structured the IA development process.</li>
+		</ul>
+
+	</div> <!-- body-text-Work -->
+
+
+	<span class="scroll-to-top"><i class="fas fa-lg fa-chevron-up" style="color: white; margin: 7px"></i></span>
+
+	<!-- d3.js -->
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<!-- actions -->
+	<script src="js/js.js"></script>
+
+
+	<footer class="fixed-bottom"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>
+</body>

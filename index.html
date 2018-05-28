@@ -24,7 +24,7 @@
 		<nav id="nav-1" class="navbar navbar-dark navbar-toggleable-md fixed-top">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<a class="navbar-brand" href="index.html">
-				<img src="https://a-h-l.net/wp-content/uploads/2017/05/Adrianne_H_Lee.png" id="logo" width="72%" height="80%">
+				<img src="img/Adrianne_H_Lee.png" id="logo-small" width="72%" height="80%">
 			</a>
 			<!-- dropdown button -->
 			<button class="custom-toggler navbar-toggler navbar-toggler-right" type="button" >
@@ -39,57 +39,49 @@
 			<li class="nav-item">
 				<a class="nav-link" href="index.html">About</a>
 			</li>
-			<li class="nav-item dropdown">
-				<a id="navbarDropdown-1" class="dropbtn nav-link dropdown-toggle" href="work.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			<li class="nav-item">
+				<a id="navbarDropdown-1" class="nav-link" href="work.html">
 					Work
 				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					<a class="dropdown-item" href="project/services-catalogue/">Services Catalogue</a>
-					<a class="dropdown-item" href="project/financial-products-selector/" >Financial Products Selector</a>
-					<div class="dropdown-divider"></div>
-					<a class="dropdown-item" href="https://a-h-l.net/project/the-store" >The Store</a>
-				</div>
+				<ul class="work-dropdown-content">
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="services-catalogue.html">Services Catalogue</a></li>
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="financial-products-selector.html" >Financial Products Selector</a></li>
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="the-store.html" >The Store</a></li>
+				</ul>
 			</li>
 		</ul>
 	</div>
 	<!-- end of collapsible navbar -->
 
-
-
 	<!-- Full Navigation Bar (large) -->
-	<div id="navbar-full" class="container">
+	<div id="navbar-container-full" class="container">
 		<!-- .navbar-fixed-top, or .navbar-fixed-bottom can be added to keep the nav bar fixed on the screen -->
-		<nav id="nav-2" class="navbar navbar-dark fixed-top">
+		<nav id="nav-full" class="navbar navbar-dark fixed-top">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<a class="navbar-brand" align="center" href="index.html" style="margin-left: -10%">
-				<img src="https://a-h-l.net/wp-content/uploads/2017/05/Adrianne_H_Lee.png" id="logo" width="50%" height="50%" style="margin-bottom: 5px; margin-right: 10%">
+				<img  id="logo-full" src="img/Adrianne_H_Lee.png" width="50%" height="50%" style="margin-bottom: 5px; margin-right: 10%">
 			</a>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="right-side">
 				<a class="nav-link nav-link-full" href="index.html" >
 				About</a>
 				<div class="dropdown">
-					<a id="navbarDropdown-full" class="dropbtn nav-link nav-link-full" href="work.html" role="button" aria-haspopup="true" aria-expanded="false">
-					Work</a>
-				</div>
-
+					<a class="dropbtn nav-link nav-link-full" href="work.html">Work&nbsp;&#9662;
+					</a>
+					<div id="work-dropdown-full">
+						<a class="dropdown-content-large" href="services-catalogue.html">Services Catalogue</a>
+						<a class="dropdown-content-large" href="financial-products-selector.html">Financial Products Selector</a>
+						<a class="dropdown-content-large" href="the-store.html" style="">The Store</a>
+					</div>
+					<!-- end of work dropdown full -->
+				</div><!-- end of dropdown -->
 			</div>
 			<!-- /.right-side -->
 
 		</nav>
 	</div>
 	<!-- end of full navbar -->
-	<div id="work-dropdown-full">
-		<div class="dropdown-menu-2" aria-labelledby="navbarDropdown">
-			<ul class="sub-menu">
-				<li class="sub-menu-item"><a class="sub-menu-link" href="project/services-catalogue/">Services Catalogue</a></li>
-				<li class="sub-menu-item"><a class="sub-menu-link" href="project/financial-products-selector/">Financial Products Selector</a></li>
-				<!-- <div class="dropdown-divider"></div> -->
-				<li class="sub-menu-item"><a class="sub-menu-link" href="https://a-h-l.net/project/the-store" style="">The Store</a></li>
-			</ul>
-		</div>
-		
-	</div>
+	
 
 	<div class="grid-container">
 
@@ -124,7 +116,7 @@
 	</div> <!-- end grid-container -->
 
 
-	<footer class="fixed-bottom" style="background: black; color: white; text-align: right; padding: 7px;"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>
+	<footer class="fixed-bottom"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>
 
 	<!-- d3.js -->
 	<script src="https://d3js.org/d3.v5.min.js"></script>
