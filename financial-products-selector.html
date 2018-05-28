@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Financial Products Selector | Adrianne H Lee</title>
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<!-- Bootstrap -->
+	<script type='text/javascript' src='js/bootstrap.js'></script>
+	<!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.css"> -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+	<!-- fontawesome icons -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+	<!-- Open Sans font -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<!-- stylesheet -->
+	<link rel="stylesheet" href="css/main.css">
+
+</head>
+<body>
+	
+
+	<!-- Collapsible Navigation Bar (medium and smaller) -->
+	<div id="navbar-collapsible" class="container">
+		<!-- .navbar-fixed-top, or .navbar-fixed-bottom can be added to keep the nav bar fixed on the screen -->
+		<nav id="nav-1" class="navbar navbar-dark navbar-toggleable-md fixed-top" style="position: absolute;">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<a class="navbar-brand" href="index.html">
+				<img src="img/Adrianne_H_Lee.png" id="logo-small" width="72%" height="80%">
+			</a>
+			<!-- dropdown button -->
+			<button class="custom-toggler navbar-toggler navbar-toggler-right" type="button" >
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+		</nav>
+	</div>
+
+	<div id="navbarContainer">
+		<ul id="navbarContent" class="navbar-nav mr-auto">
+			<li class="nav-item">
+				<a class="nav-link" href="index.html">About</a>
+			</li>
+			<li class="nav-item">
+				<a id="navbarDropdown-1" class="nav-link" href="work.html">
+					Work
+				</a>
+				<ul class="work-dropdown-content">
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="services-catalogue.html">Services Catalogue</a></li>
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="financial-products-selector.html" >Financial Products Selector</a></li>
+					<li class="work-dropdown-item"><a class="nav-link indented-item" href="the-store.html" >The Store</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<!-- end of collapsible navbar -->
+
+	<!-- Full Navigation Bar (large) -->
+	<div id="navbar-container-full" class="container">
+		<!-- .navbar-fixed-top, or .navbar-fixed-bottom can be added to keep the nav bar fixed on the screen -->
+		<nav id="nav-full" class="navbar navbar-dark fixed-top">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<a class="navbar-brand" align="center" href="index.html" style="margin-left: -10%">
+				<img  id="logo-full" src="img/Adrianne_H_Lee.png" width="50%" height="50%" style="margin-bottom: 5px; margin-right: 10%">
+			</a>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="right-side">
+				<a class="nav-link nav-link-full" href="index.html" >
+				About</a>
+				<div class="dropdown">
+					<a class="dropbtn nav-link nav-link-full" href="work.html">Work&nbsp;&#9662;
+					</a>
+					<div id="work-dropdown-full">
+						<a class="dropdown-content-large" href="services-catalogue.html">Services Catalogue</a>
+						<a class="dropdown-content-large" href="financial-products-selector.html">Financial Products Selector</a>
+						<a class="dropdown-content-large" href="the-store.html">The Store</a>
+					</div>
+					<!-- end of work dropdown full -->
+				</div><!-- end of dropdown -->
+			</div>
+			<!-- /.right-side -->
+
+		</nav>
+	</div>
+	<!-- end of full navbar -->
+	
+
+
+
+	<!-- Work | The store, Services catalogue, Financial products selector (large) -->
+
+	<div id="body-text-work-item">
+
+		<h1 id="titleOfWork">Financial Products Selector</h1>
+		<hr style="border-color: black; border-width: 2px; ">
+
+
+		<div class="subheading-content">
+
+			<div class="subheading-column sub-heading-column-1">
+				<p class="subheading-p subheading-p-1"><strong>Client:</strong>&nbsp;Financial Consumer Agency of Canada (FCAC)</p>
+				<p class="subheading-p subheading-p-1"><strong>Timeline:</strong>&nbsp;2.5 months</p>
+				<p class="subheading-p subheading-p-1"><strong>Tools:&nbsp;</strong>Adobe Illustrator, Invision, Excel</p>
+			</div> <!-- subheading-column -->
+
+			<div class="subheading-column sub-heading-column-2">
+				<p class="subheading-p subheading-p-2"><strong>My contribution:</strong>&nbsp;Functional requirements review, test design, test participant recruitment, hi-fi mockups and lo-fi prototype development, and reporting</p>
+				<p class="subheading-p subheading-p-2"><strong>Team:</strong>&nbsp;An information&nbsp;architect, a UX Designer, and myself</p>
+			</div> <!-- subheading-column -->
+
+		</div> <!-- subheading-content -->
+
+		<hr class="hr-bottom" style="border-color: black; border-width: 2px; margin-top: 160px">
+
+
+		<h2>Project Overview</h2>
+
+		<p>The Credit Card Selector Tool and the Accounts Selector Tool are part of a series of products by the Financial Consumer Agency of Canada (FCAC) that aim to help Canadians make better financial decisions. Using the tools, users would filter through products uploaded by financial institutions and the FCAC. <strong>The interface for the two products was developed, tested, and revised for this project.</strong></p>
+
+
+		<h2>Challenges</h2>
+
+		<p>The two financial tools each had three users and consequently three “views”:</p>
+		<ul class="ul-unindent">
+			<li><strong>Consumer View</strong>: Search and compare products</li>
+			<li><strong>Financial Institution View</strong>: Create new products and manage old products, manage other users from financial institution</li>
+			<li><strong>FCAC View</strong>: Manage existing products, approve and reject product submissions, manage financial Institution users</li>
+		</ul>
+		<p>Each view serves a different use pattern, but there needed to be some consistency throughout the three views:</p>
+		<ul class="ul-unindent">
+			<li>Canada.ca look and feel, incorporate <a href="https://wet-boew.github.io/v4.0-ci/index-en.html">WET</a></li>
+			<li><a href="https://www.w3.org/TR/WCAG/">WCAG 2.0</a> and support limited use of Javascript</li>
+			<li>Support mobile view – limit excessive scrolling (horizontal &amp; vertical scrolling)</li>
+		</ul>
+
+		<h2>Outcomes</h2>
+
+
+		<ul class="ul-unindent">
+			<li>The project was successfully completed, despite tight timelines and strict functionality requirements.</li>
+			<li>While there were various capabilities designed for the FI and FCAC View, consistency was kept where possible to allow users to spend less time learning the products.</li>
+		</ul>
+
+
+		<h2>Initial mock-ups and usability test results</h2>
+
+		<p>Hi-fi mock-ups and click-through prototypes were developed according to FCAC’s functional requirements to test&nbsp;with the Consumer and Financial Institution users.</p>
+		<p>Below are the mock-ups before and after usability testing. The numbers indicate major points of change and key observations. (Click to expand images)</p>
+
+		<div class="row_images_single">
+			<div class="image_div image_hover_overlay">
+				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
+					<img class="image-inline-block" src="img/FCAC_ConsumerView.png" style="margin-top: 40px"></img>
+					<div class="expand_overlay">
+						<i class="fas fa-2x fa-plus-circle"></i>
+					</div>
+				</a>
+			</div>
+		</div>
+
+
+		<ol class="ol-unindent">
+			<li>Consumer users were distracted by the repeated text at the top of the page. Removing the repeated text also helped pull important content up&nbsp;on the page.</li>
+			<li>Users often missed the instructions on selecting two products to compare, as it was grouped with other text. Instructions were placed in a more contextual location.</li>
+			<li>Consumer users were confused by the sorting interface&nbsp;and had to learn how to use the sort functions. A more conventional layout was applied.</li>
+			<li>In case users miss the directions on selecting two products to compare, unselected items gray-out and become uninteractive once two products are selected.</li>
+		</ol>
+
+		<div class="row_images_single">
+			<div class="image_div image_hover_overlay">
+				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
+					<img class="image-inline-block" src="img/FCAC_ConsumerView2.png" style="margin-top: 40px"></img>
+					<div class="expand_overlay">
+						<i class="fas fa-2x fa-plus-circle"></i>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<ol class="ol-unindent">
+			<li>Users found the coloured text helpful in quickly identifying the differences in the two products.</li>
+			<li>Some users couldn’t identify right away what the colour difference was for. An indicator above the table was added to clarify (and comply with <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html">WCAG 2.0’s Use of Color</a>).</li>
+			<li>The layout of the comparison table was adjusted to give greater contrast between the table headers and body text. This created a more scannable page.</li>
+		</ol>
+
+		<div class="row_images_single">
+			<div class="image_div image_hover_overlay">
+				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
+					<img class="image-inline-block" src="img/FCAC_FinancialInstitutionView.png" style="margin-top: 40px"></img>
+					<div class="expand_overlay">
+						<i class="fas fa-2x fa-plus-circle"></i>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<ol class="ol-unindent">
+			<li>Many Financial Institution users missed the main body of the page content, as the sort and filter functions pushed the main content beneath the page fold. All elements were rearranged to create a more succinct layout.</li>
+		</ol>
+
+		<div class="row_images_single">
+			<div class="image_div image_hover_overlay">
+				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
+					<img class="image-inline-block" src="img/FCAC_FinancialInstitutionView2.png" style="margin-top: 40px"></img>
+					<div class="expand_overlay">
+						<i class="fas fa-2x fa-plus-circle"></i>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<ol class="ol-unindent">
+			<li>Financial Institution users had great success understanding the Action Preview pages. This was especially the case for deleting products that were at various stages of being published (some required a “Request to delete”).</li>
+		</ol>
+
+		<h2>What I learned</h2>
+
+		<ul class="ul-unindent">
+			<li>Develop and test in lower fidelity, if possible, to allow clients to focus on the bigger picture, rather than the details of the screen</li>
+			<li>Follow established patterns of user interaction, rather than try to reinvent the wheel</li>
+		</ul>
+
+	</div> <!-- body-text-Work -->
+
+
+	<span class="scroll-to-top"><i class="fas fa-lg fa-chevron-up" style="color: white; margin: 7px"></i></span>
+
+	<!-- d3.js -->
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<!-- scroll-reveal -->
+	<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+	<!-- actions -->
+	<script src="js/js.js"></script>
+
+	<footer class="fixed-bottom"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>
+</body>

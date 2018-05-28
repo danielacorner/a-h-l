@@ -1,3 +1,7 @@
+// scroll-reveal
+window.sr = ScrollReveal({origin: 'left', scale: 1, duration: 1000, distance: '40px'});
+sr.reveal('.image_div');
+
 // collapsible dropdown
 var ddexpanded=false
 d3.select(".custom-toggler").on("click",function(){

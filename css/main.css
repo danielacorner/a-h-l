@@ -65,9 +65,12 @@ li.work-dropdown-item{
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 #nav-full{
-  padding: 11px 11.5vw; 
+  padding: 14px 11.5vw; 
   background: black;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+#logo-full{
+  width: 57%;
 }
 #navbarContent{
   position: fixed;
@@ -283,7 +286,9 @@ li{
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-
+.ol-unindent{
+  margin-left: -40px;
+}
 
 .image_div{
   position: relative;
@@ -291,10 +296,29 @@ li{
   margin: 60px -50px 50px -50px;
   height: auto;
 }
-.row_images{
+.row_images_single{
+  display: grid;
+  grid-template-columns: auto;
+}
+.row_images_single .image_div{
+  margin: 0;
+  width: 100%;
+}
+.row_images_double{
   display: grid;
   grid-template-columns: auto auto;
   grid-gap: 27%;
+}
+.row_images_triple .image_div{
+  position: relative;
+  width: 100%;
+  margin: 0;
+  /*left: 8%;*/
+}
+.row_images_triple{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 5%;
 }
 .image_div img{
   display: block;
@@ -335,6 +359,10 @@ li{
 }
 .image_div:hover .expand_overlay{
   opacity: 0.9;
+}
+.image-inline-block{
+  margin: 10px 0;
+  width: 100%;
 }
 
 
@@ -450,7 +478,7 @@ li{
     margin: 10% 26% 0% 25%;
   }
   #body-text-work-item{
-    margin: 130px 22% 0% 22%;
+    margin: 130px 25% 0% 22%;
   }
   #workTitle{
     padding: 30px 0px 15px 0px;

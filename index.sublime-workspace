@@ -1,1 +1,1766 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ol",
+				"ol-unindent"
+			],
+			[
+				"cente",
+				"center-listbox"
+			],
+			[
+				"scroll",
+				"scroll-to-top"
+			],
+			[
+				"nav-link",
+				"nav-link-full"
+			],
+			[
+				"fav",
+				"favesMode"
+			],
+			[
+				"img",
+				"img-slide00"
+			],
+			[
+				"fave",
+				"faveCircles"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"labelLine",
+				"labelLineSalaryYears"
+			],
+			[
+				"labelLin",
+				"labelLineSalaryYears"
+			],
+			[
+				"feed",
+				"feedbackBbox〔variable〕"
+			],
+			[
+				"fee",
+				"feedbackBbox"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"equa",
+				"equaLink"
+			],
+			[
+				"btnSizes",
+				"btnSizesOption"
+			],
+			[
+				"btnSize",
+				"btnSizesDims〔variable〕"
+			],
+			[
+				"forcec",
+				"forceCollide〔variable〕"
+			],
+			[
+				"forceGrav",
+				"forceGravityMultiplier〔variable〕"
+			],
+			[
+				"forcegr",
+				"forceGravityMultiplier〔variable〕"
+			],
+			[
+				"forcegra",
+				"forceGravityMultiplier"
+			],
+			[
+				"forceGr",
+				"forceGravityMultiplier"
+			],
+			[
+				"forceGra",
+				"forceGravityMultiplier〔variable〕"
+			],
+			[
+				"inne",
+				"innerWidth"
+			],
+			[
+				"restart",
+				"restartSimulation"
+			],
+			[
+				"La",
+				"Lawyers"
+			],
+			[
+				"current",
+				"currentMode"
+			],
+			[
+				"industries",
+				"industriesArray"
+			],
+			[
+				"industrie",
+				"industriesArray〔variable〕"
+			],
+			[
+				"industri",
+				"industriesArray〔variable〕"
+			],
+			[
+				"indus",
+				"industry"
+			],
+			[
+				"legendDiv",
+				"legendDiv1"
+			],
+			[
+				"legendButt",
+				"legendButtonWidth"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"point",
+				"pointer-events"
+			],
+			[
+				"circl",
+				"circleHeight"
+			],
+			[
+				"targ",
+				"target='_blank"
+			],
+			[
+				"filter",
+				"filteredNodes"
+			],
+			[
+				"rese",
+				"resetSimulation"
+			],
+			[
+				"thisSli",
+				"thisSliderID"
+			],
+			[
+				"axisY",
+				"axisYtranslate"
+			],
+			[
+				"inner",
+				"innerWidth〔variable〕"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"axisDe",
+				"axisDecorationY"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"sliderDiv_",
+				"sliderDiv_skillsLang"
+			],
+			[
+				"minitoo",
+				"miniTooltipDiv"
+			],
+			[
+				"size",
+				"sizeDropdownSpan"
+			],
+			[
+				"siz",
+				"sizesDropdown"
+			],
+			[
+				"td",
+				"td\tsnippetTransition"
+			],
+			[
+				"sizeDrop",
+				"sizeDropdownButton"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"indust",
+				"industriesArray〔variable〕"
+			],
+			[
+				"t",
+				"timeout\tsetTimeout function"
+			],
+			[
+				"tdec",
+				"text-decoration"
+			],
+			[
+				"text-decoration",
+				"text-decoration-style"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"colortoo",
+				"colorTooltip2"
+			],
+			[
+				"4",
+				"49AC52"
+			],
+			[
+				"jobEx",
+				"jobExampleCircle"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"left",
+				"leftOrRight"
+			],
+			[
+				"lef",
+				"leftOrRight"
+			],
+			[
+				"consol",
+				"console.log('favourited"
+			],
+			[
+				"createFutue",
+				"createFutureLegend"
+			],
+			[
+				"creat",
+				"createFutureLegend"
+			],
+			[
+				"graph",
+				"graphModesDiv"
+			],
+			[
+				"moveBottom",
+				"moveBottomUp"
+			],
+			[
+				"view",
+				"viewBox"
+			],
+			[
+				"subslide",
+				"subSliderTitlesArray〔argument〕"
+			],
+			[
+				"slidertitles",
+				"sliderTitlesArray〔argument〕"
+			],
+			[
+				"sliderTitles",
+				"sliderTitlesArray"
+			],
+			[
+				"create",
+				"createLegend"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"subsli",
+				"subSliderArray〔argument〕"
+			],
+			[
+				"data",
+				"data-options=〔attribute〕"
+			],
+			[
+				"auto",
+				"automationRadiusScale"
+			],
+			[
+				"autom",
+				"automationRisk"
+			],
+			[
+				"index",
+				"indexIn_sliderArray"
+			],
+			[
+				"subslider",
+				"subSliderDivLang〔variable〕"
+			],
+			[
+				"sliderTitl",
+				"sliderTitlesArray〔argument〕"
+			],
+			[
+				"sliderTitle",
+				"sliderTitlesArrayLang〔variable〕"
+			],
+			[
+				"expand",
+				"expandButtons"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"slidertitl",
+				"sliderTitlesArrayMain〔variable〕"
+			],
+			[
+				"inn",
+				"innerWidth〔variable〕"
+			],
+			[
+				"reset",
+				"resetFilters"
+			],
+			[
+				"joy",
+				"joyrideTour"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"slider",
+				"sliderArray1"
+			],
+			[
+				"search",
+				"searchbutton_PC"
+			],
+			[
+				"futureLeg",
+				"futureLegendTitle"
+			],
+			[
+				"skills",
+				"skillsLogi"
+			],
+			[
+				"skil",
+				"skillsLang"
+			],
+			[
+				"skill",
+				"skillsComp"
+			],
+			[
+				"max",
+				"maxWage"
+			],
+			[
+				"res",
+				"restart"
+			],
+			[
+				"alpha",
+				"alphaTarget"
+			],
+			[
+				"slidertitle",
+				"sliderTitlesArray〔variable〕"
+			],
+			[
+				"axisL",
+				"axisLabelY〔variable〕"
+			],
+			[
+				"legend",
+				"legend.transition().duration(500).style(\"opacity"
+			],
+			[
+				"year",
+				"yearsStudy"
+			],
+			[
+				"crea",
+				"createLegend"
+			],
+			[
+				"colorT",
+				"colorTooltipObject"
+			],
+			[
+				"futur",
+				"futurePositions"
+			],
+			[
+				"future",
+				"futurePositions"
+			],
+			[
+				"enter",
+				"enterUpdateCircles"
+			],
+			[
+				"futu",
+				"futureMode"
+			],
+			[
+				"gr",
+				"graphMode"
+			],
+			[
+				"futureMo",
+				"futureModeOff"
+			],
+			[
+				"a",
+				"automationRisk"
+			],
+			[
+				"stroke",
+				"stroke-width"
+			],
+			[
+				"past",
+				"pastPosY"
+			],
+			[
+				"pas",
+				"pastPosX"
+			],
+			[
+				"force",
+				"forceCollide"
+			],
+			[
+				"origin",
+				"originalRadius"
+			],
+			[
+				"dragg",
+				"draggedSliderID"
+			],
+			[
+				"temp",
+				"tempScale"
+			],
+			[
+				"sli",
+				"sliderScaleArray"
+			],
+			[
+				"list",
+				"listToDeleteMulti"
+			],
+			[
+				"slidersArr",
+				"sliderSVGArray"
+			],
+			[
+				"sliderSc",
+				"sliderScaleArray"
+			],
+			[
+				"slid",
+				"sliderSVG"
+			],
+			[
+				"sk",
+				"skillsMath"
+			],
+			[
+				"drop",
+				"dropdown1Title"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 9183,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "screenshots/Financial Products Selector _ Adrianne H Lee.html",
+			"settings":
+			{
+				"buffer_size": 368322,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"snippet",
+				"Snippet: snippet1"
+			],
+			[
+				"text pastr",
+				"Text Pastry: Generate a list of numbers from 1 to 100"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: tran",
+				"Snippet: snippetTransition"
+			],
+			[
+				"snipper",
+				"Snippet: Prototype"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"color pi",
+				"Color Picker"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"materi",
+				"Material Theme: Configuration"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"materia",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"material theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax",
+				"Set Syntax: Textile"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: Python3"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Vagrant Status"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html ",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python3"
+			],
+			[
+				"hermes",
+				"Hermes: Connect Server"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ",
+				"Set Syntax: YAML"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 704.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"install dash",
+			"pip_install dash",
+			"pip install plotly.dash",
+			"pip install",
+			"pip install plotly",
+			"pip install",
+			"import plotly",
+			"easy_install dash",
+			"import dash",
+			"?",
+			"help.dash",
+			"help",
+			"exit()",
+			"install plotly",
+			"install dash",
+			"pip install dash"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daniel2/Documents/a-h-l",
+		"/C/Users/Daniel2/Documents/a-h-l/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Daniel2/Documents/a-h-l/README.md",
+		"/C/Users/Daniel2/Documents/a-h-l/financial-products-selector.html",
+		"/C/Users/Daniel2/Documents/a-h-l/the-store.html",
+		"/C/Users/Daniel2/Documents/a-h-l/services-catalogue.html",
+		"/C/Users/Daniel2/Documents/a-h-l/js/js.js",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/The Store _ Adrianne H Lee.html",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/Work _ Adrianne H Lee.html",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/Services Catalogue _ Adrianne H Lee.html",
+		"/C/Users/Daniel2/Documents/a-h-l/index.html",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/Adrianne H Lee_files/style.css",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/Adrianne H Lee_files/shortcodes.css",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/Adrianne H Lee_files/custom.js.download",
+		"/C/Users/Daniel2/Documents/a-h-l/screenshots/Adrianne H Lee_files/css",
+		"/C/Users/Daniel2/Documents/Pave-D3/Pave.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/About.html",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/stylewidthheight.sublime-snippet",
+		"/C/Users/Daniel2/Downloads/logs-02-session-ic.txt",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/transformtranslate.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/tablapphone.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/function.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/window-width.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/window-height.sublime-snippet",
+		"/C/Users/Daniel2/Documents/Pave-D3/css/main.css",
+		"/C/Users/Daniel2/Documents/Pave-D3/index.html",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/mediaQuery.sublime-snippet",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial5.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial1.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial2.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial3.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial4.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial4-old.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial0.html",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/d3SelectAll.sublime-snippet",
+		"/C/xampp/htdocs/pave/loginStyle.css",
+		"/C/xampp/htdocs/pave/index.php",
+		"/C/Users/Daniel2/Documents/Pave-D3/signUp.php",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$DIa0.842/Please read.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/mnemonic chatbot.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/000-999.txt",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/Text Pastry/TextPastry.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/.git/packed-refs",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet8_selectParentNode.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet7_styleWidthHeight.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet6_consolelog.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet5_function_d_i.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet1functiond.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippetTransition.sublime-snippet",
+		"/C/Users/Daniel2/Documents/a-h-l/css/main.css",
+		"/C/Users/Daniel2/Documents/a-h-l/work.html",
+		"/C/Users/Daniel2/Documents/a-h-l/todos.txt",
+		"/C/Users/Daniel2/Documents/a-h-l/navbar.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation-3-24-2018.js",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/Bootstrap.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/index-3-6-2018.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/index_jobTitles.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/PaveBubbles.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/index_redo.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/cols_index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/joyridetour.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/cols_index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/todos2.txt",
+		"/C/Users/Daniel2/Documents/Pave-D3/Pave.sublime-workspace",
+		"/C/Users/Daniel2/Documents/Pave-D3/node_modules/jquery.joyride/jquery.joyride.css",
+		"/C/Users/Daniel2/AppData/Local/LiveReload/Logs/LiveReload_2018_03_15_092939.txt",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/README.md",
+		"/C/Users/Daniel2/Documents/Pave-D3/node_modules/jquery.joyride/README.markdown",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/app.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/node_modules/jquery/dist/jquery.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/node_modules/jquery/dist/jquery.min.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/dist/solo.joyride.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/js/joyride.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/dist/foundation.joyride.js",
+		"/C/Users/Daniel2/Downloads/foundation-6.4.2-complete/js/app.js",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$EXa0.265/index.html",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$DIa0.031/README.md",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$DIa0.199/README.md",
+		"/C/Users/Daniel2/Documents/Pave-D3/index_jobTitles.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation_jobTitles.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/index2-redo.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation2-redo.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/css/bootstrap.css",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/Pave.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/index.js",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/home.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/testing/svg-sliders.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/dcorn068.github.io/svg-sliders.js",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/dcorn068.github.io/index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/dcorn068.github.io/PaveVisualisation.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/Procfile",
+		"/C/Users/Daniel2/Documents/Pave-D3/index.php",
+		"/C/Users/Daniel2/Documents/Pave-D3/composer.json",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveBubbles.js",
+		"/C/Users/Daniel2/Documents/Pave-D3-progress-pics/filterSlider1Workers.js",
+		"/C/Users/Daniel2/Documents/Pave-D3-progress-pics/PaveBubbles backup 27-02-2018.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/enter exit update.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/serverLaptop.bat",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/slider.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/Filtering Nodes.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/slider.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/svg-sliders.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/graph-module.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/graph-mode.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/slider.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/testing/bubbles.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/forceCluster.js",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/todo - Civic Tech.txt",
+		"/C/Users/Daniel2/Documents/Pave-D3/ClusterIV.js",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index_1.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/21_on.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/26_removing_values.html",
+		"/C/Users/Daniel2/Dropbox/computer lessons/right-click properties, file location.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/typing - look wide, notice the arrangement of the keys.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Speed Lessons/Chrome shortcuts & extensions/Chrome Extensions.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Intermediate/Chrome shortcuts & extensions/Research shortcuts.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Intermediate/Chrome shortcuts & extensions/Youtube shortcuts.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Intermediate/Chrome shortcuts & extensions/Chrome shortcuts.txt",
+		"/C/Users/Public/Desktop/R@1n.txt",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index2.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/ClusterIV.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3figures1.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/server.bat",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index_force-collapsible.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"row_images",
+			"<strong>",
+			"title",
+			"image",
+			"<strong>",
+			"<p>",
+			"inline-block-img",
+			"lightbox",
+			"animation_left",
+			"et_pb_image",
+			"<div class=\"expand_overlay\"></div>",
+			"et_pb_image_1 ",
+			" animation_left et_pb_image_1 et_always_center_on_mobile et_pb_has_overlay",
+			"<span class=\"expand_button\"></span>",
+			"\t\t\t\t<div class=\"expand_overlay\"></div>\n",
+			"<div class=\"expand_overlay\"></div>",
+			"<img",
+			"<span class=\"expand_overlay\"></span>",
+			"><img",
+			"span",
+			"span class=\"expand_overlay",
+			"et_overlay",
+			"template",
+			"et_pb_has_overlay",
+			"et_pb_module",
+			"./Services Catalogue _ Adrianne H Lee_files",
+			"recommended",
+			"500",
+			".ease(\"easeExp\")",
+			"selectAll",
+			".ease(\"easeExp\")",
+			"100%",
+			"body-text-work",
+			"grid",
+			"<ul>",
+			"inline",
+			"<p>",
+			"width",
+			".et_pb_column",
+			"et_pb_text_inner",
+			"et_pb_text_16",
+			"et_pb_text_inner",
+			"/\"",
+			"project/",
+			"href",
+			"/\"",
+			"href",
+			"/\"",
+			"/",
+			"https://a-h-l.net/wp-content/uploads/2017/05",
+			"img",
+			"https://a-h-l.net/wp-content/uploads/2017/05/",
+			"a-h",
+			"project",
+			";",
+			"; ",
+			"underline",
+			"style=\"text-decoration: none\"",
+			"br",
+			"transition",
+			"dropdown",
+			"sub-menu-link",
+			"<li class=\"dropdown-content-large sub-menu-item\">",
+			"sub-menu-link",
+			"opacity",
+			"navbarcontent",
+			"work-dropdown-content-full",
+			"dropdown-content",
+			"dropdown",
+			"dropbtn",
+			"dropdown",
+			"navbar-full",
+			"navbar-container",
+			"logo",
+			"navbar-brand",
+			"navbar-full",
+			"nav-2",
+			"display: none",
+			"dropdown-item",
+			"display: none",
+			"hover",
+			"dropdown",
+			"sub-menu-",
+			"sub-menu-ite",
+			"sub-menu-item",
+			"work-dropdown",
+			"collapsi",
+			"collapsible-sub-menu-item",
+			"auto",
+			"sub-menu",
+			"50",
+			"list-sty",
+			"list-style",
+			"indented-item",
+			"nav-item",
+			"dropdown",
+			"top:",
+			"style",
+			"nav-1",
+			"position",
+			"font-size",
+			"about",
+			"profile-link",
+			";",
+			"inline-link",
+			"\na.inline-link{\n  color: black;\n}\na.inline-link:hover{\n  color: grey;\n}\n",
+			"href",
+			"resume",
+			"\"; ",
+			"color: #DBDBDB",
+			"color",
+			"color:",
+			"color: #DBDBDB;",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4847,
+								4847
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4848,
+										4849
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4651,
+										4652
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4848,
+										4849
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4651,
+										4652
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "screenshots/Financial Products Selector _ Adrianne H Lee.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298749,
+								298498
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										298746,
+										298748
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										298499,
+										298501
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										298746,
+										298748
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										298499,
+										298501
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 64182.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.624408231759,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3-1.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"service",
+				"services-catalogue.html"
+			],
+			[
+				"the-store",
+				"the-store.html"
+			],
+			[
+				"js",
+				"js\\js.js"
+			],
+			[
+				"the-",
+				"the-store.html"
+			],
+			[
+				"finani",
+				"screenshots\\Financial Products Selector _ Adrianne H Lee.html"
+			],
+			[
+				"serv",
+				"services-catalogue.html"
+			],
+			[
+				"services",
+				"services-catalogue.html"
+			],
+			[
+				"js.js",
+				"js\\js.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"work",
+				"work.html"
+			],
+			[
+				"pave",
+				"Pave-D3\\Pave.html"
+			],
+			[
+				"style",
+				"Pave-D3\\public\\sass\\style.scss"
+			],
+			[
+				"inde",
+				"Pave-D3\\index.html"
+			],
+			[
+				"main.",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"tut5",
+				"Pave-D3\\Tutorial5.html"
+			],
+			[
+				"pave.ht",
+				"Pave-D3\\Pave.html"
+			],
+			[
+				"pavevisu",
+				"Pave-D3\\PaveVisualisation.js"
+			],
+			[
+				"pave.h",
+				"Pave-D3\\Pave.html"
+			],
+			[
+				"main.cs",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"tut2",
+				"Pave-D3\\Tutorial2.html"
+			],
+			[
+				"tut0",
+				"Pave-D3\\Tutorial0.html"
+			],
+			[
+				"tut3",
+				"Pave-D3\\Tutorial3.html"
+			],
+			[
+				"tuto4",
+				"Pave-D3\\Tutorial4.html"
+			],
+			[
+				"tuto5",
+				"Pave-D3\\Tutorial5.html"
+			],
+			[
+				"tutorial4",
+				"Pave-D3\\Tutorial4.html"
+			],
+			[
+				"tut1",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tuto",
+				"Pave-D3\\Tutorial4.html"
+			],
+			[
+				"main.css",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"main",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"tutorial3",
+				"Pave-D3\\Tutorial3.html"
+			],
+			[
+				"tutorial2",
+				"Pave-D3\\Tutorial2.html"
+			],
+			[
+				"tutorial",
+				"Pave-D3\\Tutorial0.html"
+			],
+			[
+				"tutorial1",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tu",
+				"Pave-D3\\Tutorial0.html"
+			],
+			[
+				"tutor",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tutoria",
+				"Pave-D3\\Tutorial3.html"
+			],
+			[
+				"tutori",
+				"Pave-D3\\Tutorial3.html"
+			],
+			[
+				"pavevi",
+				"Pave-D3\\PaveVisualisation.js"
+			],
+			[
+				"utorial1",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tut",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"pavev",
+				"Pave-D3\\PaveVisualisation.js"
+			],
+			[
+				"main.c",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"todo",
+				"Pave-D3\\todos2.txt"
+			],
+			[
+				"pav",
+				"Pave.html"
+			],
+			[
+				"m",
+				"css\\main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
