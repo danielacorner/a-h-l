@@ -69,17 +69,37 @@ function collapseScrollUpButton(){
 		.style("opacity",0)
 }
 
-
-// d3.selectAll(".image_div")
-// .on("mouseover",function(){
-// 	imageOverlay()
-// }).on("mouseout",function(){
-// 	closeImageOverlay()
-// })
- 
-// function imageOverlay(){
-	
-// }
-// function closeImageOverlay(){
-
-// }
+document.getElementsByClassName('scroll-to-top')[0].onclick = function () {
+   scrollTo(0, 1250);   
+}
+    
+const
+scrollTo = function(to, duration) {
+    const
+    element = document.scrollingElement || document.documentElement,
+    start = element.scrollTop,
+    change = to - start,
+    startDate = +new Date(),
+    // t = current time
+    // b = start value
+    // c = change in value
+    // d = duration
+    easeInOutQuad = function(t, b, c, d) {
+        t /= d/2;
+        if (t < 1) return c/2*t*t + b;
+        t--;
+        return -c/2 * (t*(t-2) - 1) + b;
+    },
+    animateScroll = function() {
+        const currentDate = +new Date();
+        const currentTime = currentDate - startDate;
+        element.scrollTop = parseInt(easeInOutQuad(currentTime, start, change, duration));
+        if(currentTime < duration) {
+            requestAnimationFrame(animateScroll);
+        }
+        else {
+            element.scrollTop = to;
+        }
+    };
+    animateScroll();
+};

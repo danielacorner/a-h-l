@@ -276,6 +276,7 @@ li{
   margin-left: 20px;
 }
 .scroll-to-top{
+  cursor: pointer;
   position: fixed;
   padding: 5px;
   right: -40px;
@@ -289,7 +290,9 @@ li{
 .ol-unindent{
   margin-left: -40px;
 }
-
+.fa-chevron-up{
+  pointer-events: none;
+}
 .image_div{
   position: relative;
   width: 150%;
