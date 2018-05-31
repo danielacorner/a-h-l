@@ -383,13 +383,14 @@ li{
     /*margin-left: 10vw; */
     /*margin-right: 10vw;*/
   }
+  /* mobile body-text fix*/
   #body-text{
-    margin: 10px -270px 30px 9.8vw;
+    margin: 10px 0 30px 9.8vw;
   }
   #photo-left{
-    margin: 180px 0px 20px 9.8vw;
+    margin: 36vw 0px 20px 9.8vw;
     display: block;
-    width: 300px;
+    width: 75vw;
     border: 5px solid black;
   }
   #photo{
@@ -449,8 +450,53 @@ li{
     width: auto;
   }
 }
+/* mobile body-text fix*/
+@media only screen and (min-width: 392px) {
+  #body-text{
+    margin: 10px -7vw 30px 9.8vw;
+  }
+  #photo-left{
+    margin: 180px 0px 20px 9.8vw;
+    display: block;
+    width: 300px;
+    border: 5px solid black;
+  }
+}
+@media only screen and (min-width: 436px) {
+  #body-text{
+    margin: 10px -10vw 30px 9.8vw;
+  }
+}
+@media only screen and (min-width: 448px) {
+  #body-text{
+    margin: 10px -14vw 30px 9.8vw;
+  }
+}
+@media only screen and (min-width: 466px) {
+  #body-text{
+    margin: 10px -18vw 30px 9.8vw;
+  }
+}
+@media only screen and (min-width: 532px) {
+  #body-text{
+    margin: 10px -27vw 30px 9.8vw;
+  }
+}
+@media only screen and (min-width: 595px) {
+  #body-text{
+    margin: 10px -31vw 30px 9.8vw;
+  }
+}
+@media only screen and (min-width: 680px) {
+  #body-text{
+    margin: 10px -270px 30px 9.8vw;
+  }
+}
 /*tablet & desktop*/
 @media only screen and (min-width: 980px) {
+  #body-text{
+    margin: 10px -270px 30px 9.8vw;
+  }
   .center-listbox{
     display: inline-block;
     float: left;
