@@ -1,10 +1,6 @@
 first:
-- fix navbar hover menu
-
-then:
-- Store, ServCat, ProdSel
-- mobile Store, ServCat, ProdSel
-
-finally:
-- fonts
-- transitions: https://www.w3schools.com/css/css3_transitions.asp
+- vertical-align menu button in mobile
+- lines overlap at top of page on mobile
+- project page gets hidden by top menu on mobile
+- materialize top nav (last pink one), side pop out is fine
+- materialize boxed on images
