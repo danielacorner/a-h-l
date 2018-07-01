@@ -1,3 +1,17 @@
+$(window).resize(function () {
+	resize()
+});
+function resize(){
+	if ($(window).width >= 980){
+		$(".subheading-content")
+		.css("height", $(".subheading-column-1").height())
+	} else {
+		// $(".subheading-content")
+		// .css("height", $(".subheading-column-1").height() + $(".subheading-column-2").height() + $(".subheading-column-2").css("margin-top"))
+	}
+}
+resize()
+
 // scroll-reveal
 window.sr = ScrollReveal({origin: 'left', scale: 1, duration: 1000, distance: '40px'});
 sr.reveal('.image_div');
