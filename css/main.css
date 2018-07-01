@@ -176,8 +176,7 @@ a.profile-link:hover{
   grid-template-rows: 33.2% auto;
 }
 #email-bottom{
-  color: #fad8d9;
-  margin-right: 100px;
+  color: #bebebe;
   text-decoration: none;
 }
 #email-bottom:hover{
@@ -187,17 +186,19 @@ a.profile-link:hover{
   background: black;
   color: white;
   text-align: right;
-  padding: 7px;
+  padding-right:11.5vw;
+  padding-top: 7px;
+  padding-bottom: 7px;
 }
 
 #workTitle{
   font-size: 32px;
-  font-family: open Sans;
+  font-family: "Letter Gothic Std", "letter-gothic-std", "source-code-pro", "Lucida sans", "Lucida Console", verdana, sans-serif;
 }
 .work-link{
   text-decoration: none;
   font-size: 25px;
-  font-family: Open Sans;
+  font-family: "Letter Gothic Std", "letter-gothic-std", "source-code-pro", "Lucida sans", "Lucida Console", verdana, sans-serif;
 }
 .underline{
   text-decoration: underline;
@@ -205,7 +206,7 @@ a.profile-link:hover{
 /*work pages*/
 #titleOfWork{
   font-size: 32px;
-  font-family: open Sans;
+  font-family: "Letter Gothic Std", "letter-gothic-std", "source-code-pro", "Lucida sans", "Lucida Console", verdana, sans-serif;
   padding: 5px 0 20px 0;
 }
 .center-listbox{
@@ -259,6 +260,7 @@ a.profile-link:hover{
   margin-top: 143px;
 }
 h2 {
+ font-family: "Letter Gothic Std", "letter-gothic-std", "source-code-pro", "Lucida sans", "Lucida Console", verdana, sans-serif;
   margin: 60px 0px 35px 0px;
 }
 h4 {
