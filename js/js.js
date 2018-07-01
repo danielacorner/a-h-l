@@ -2,12 +2,13 @@ $(window).resize(function () {
 	resize()
 });
 function resize(){
-	if ($(window).width >= 980){
+	if ($(window).width() >= 980){
 		$(".subheading-content")
 		.css("height", $(".subheading-column-1").height())
 	} else {
-		// $(".subheading-content")
-		// .css("height", $(".subheading-column-1").height() + $(".subheading-column-2").height() + $(".subheading-column-2").css("margin-top"))
+		$(".subheading-content")
+		.css("height", $(".subheading-column-1").height() + $(".subheading-column-2").height() 
+		+ 30)
 	}
 }
 resize()
