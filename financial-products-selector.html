@@ -150,12 +150,10 @@
 
 		<div class="row_images_single">
 			<div class="image_div image_hover_overlay">
-				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
-					<img class="image-inline-block" src="img/FCAC_ConsumerView.png" style="margin-top: 40px"></img>
+					<img class="image-inline-block materialboxed" src="img/FCAC_ConsumerView.png" style="margin-top: 40px"></img>
 					<div class="expand_overlay">
 						<i class="fas fa-2x fa-plus-circle"></i>
 					</div>
-				</a>
 			</div>
 		</div>
 
@@ -169,12 +167,10 @@
 
 		<div class="row_images_single">
 			<div class="image_div image_hover_overlay">
-				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
-					<img class="image-inline-block" src="img/FCAC_ConsumerView2.png" style="margin-top: 40px"></img>
+					<img class="image-inline-block materialboxed" src="img/FCAC_ConsumerView2.png" style="margin-top: 40px"></img>
 					<div class="expand_overlay">
 						<i class="fas fa-2x fa-plus-circle"></i>
 					</div>
-				</a>
 			</div>
 		</div>
 
@@ -186,12 +182,10 @@
 
 		<div class="row_images_single">
 			<div class="image_div image_hover_overlay">
-				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
-					<img class="image-inline-block" src="img/FCAC_FinancialInstitutionView.png" style="margin-top: 40px"></img>
+					<img class="image-inline-block materialboxed" src="img/FCAC_FinancialInstitutionView.png" style="margin-top: 40px"></img>
 					<div class="expand_overlay">
 						<i class="fas fa-2x fa-plus-circle"></i>
 					</div>
-				</a>
 			</div>
 		</div>
 
@@ -201,12 +195,10 @@
 
 		<div class="row_images_single">
 			<div class="image_div image_hover_overlay">
-				<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
-					<img class="image-inline-block" src="img/FCAC_FinancialInstitutionView2.png" style="margin-top: 40px"></img>
+					<img class="image-inline-block materialboxed" src="img/FCAC_FinancialInstitutionView2.png" style="margin-top: 40px"></img>
 					<div class="expand_overlay">
 						<i class="fas fa-2x fa-plus-circle"></i>
 					</div>
-				</a>
 			</div>
 		</div>
 
@@ -232,6 +224,37 @@
 	<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
 	<!-- actions -->
 	<script src="js/js.js"></script>
+	<!-- jQuery -->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+		crossorigin="anonymous">
+	</script>
+	<!--JavaScript at end of body for optimized loading-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+	<!-- initialisation scripts for -->
+	<script>
+		$('.materialboxed').materialbox();
 
+		$(window).click(function (event) {
+
+			setTimeout(function () {
+				// if there's an active materialboxed image,
+				// console.log($(".materialboxed.active").length)
+				if ($(".materialboxed.active").length) {
+					$('.materialboxed').css("opacity", "1")
+					// hide all inactive images and
+					$('.materialboxed:not(.active)').css("opacity", "0")
+					// turn off the pointer events
+					$('.image_div').css("pointer-events", "none")
+					$('.materialboxed:not(.active)').css("pointer-events", "none")
+				} else {
+					// else show all inactive images and
+					$('.materialboxed').css("opacity", "1")
+					// turn on the pointer events
+					$('.image_div').css("pointer-events", "auto")
+					$('.materialboxed:not(.active)').css("pointer-events", "auto")
+				}
+			}, 300)
+		})
+	</script>
 	<footer class="fixed-bottom"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>
 </body>

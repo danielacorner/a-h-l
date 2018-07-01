@@ -12,6 +12,11 @@
 	<!-- fontawesome icons -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
+	<!-- Materialize -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+	<!-- Materialize Icons -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 	<!-- Open Sans font -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<!-- stylesheet -->
@@ -183,22 +188,21 @@
 		</div>
 
 <div class="row_images_double">
-		<div class="image_div">
-			<a href="img/Action-based-IA.png">
-				<img class="image" src="img/Action-based-IA.png" alt="">
+
+	<div class="image_div">
+				<img class="image materialboxed" width="100%" src="img/Action-based-IA.png" alt=""/>
 				<div class="expand_overlay">
 					<i class="fas fa-2x fa-plus-circle"></i>
 				</div>
-			</a>
 		</div>
+
 		<div class="image_div">
-			<a href="img/Product-based-IA.png">
-				<img class="image" src="img/Product-based-IA.png" alt="">
+				<img class="image materialboxed" src="img/Product-based-IA.png" alt=""/>
 				<div class="expand_overlay">
 					<i class="fas fa-2x fa-plus-circle"></i>
 				</div>
-			</a>
 		</div>
+
 </div>
 
 
@@ -218,28 +222,22 @@
 
 <div class="row_images_double">
 		<div class="image_div image_hover_overlay">
-			<a href="img/Treejack-xtvrf8qo-Task-9-action-radial.png">
-				<img src="img/Treejack-xtvrf8qo-Task-9-action-radial.png" alt class="image"="">
+				<img class="materialboxed" src="img/Treejack-xtvrf8qo-Task-9-action-radial.png" alt class="image"="">
 				<div class="expand_overlay">
 					<i class="fas fa-2x fa-plus-circle"></i>
 				</div>
-			</a>
 		</div>
 		<div class="image_div image_hover_overlay">
-			<a href="img/Treejack-o7p8i63e-Task-9-action-radial.png">
-				<img src="img/Treejack-o7p8i63e-Task-9-action-radial.png" alt class="image"="">
+				<img class="materialboxed" src="img/Treejack-o7p8i63e-Task-9-action-radial.png" alt class="image"="">
 				<div class="expand_overlay">
 					<i class="fas fa-2x fa-plus-circle"></i>
 				</div>
-			</a>
 		</div>
 		<div class="image_div image_hover_overlay">
-			<a href="img/Treejack-o7p8i63e-Task-10-action-radial.png">
-				<img src="img/Treejack-o7p8i63e-Task-10-action-radial.png" alt class="image"="">
+				<img class="materialboxed" src="img/Treejack-o7p8i63e-Task-10-action-radial.png" alt class="image"="">
 				<div class="expand_overlay">
 					<i class="fas fa-2x fa-plus-circle"></i>
 				</div>
-			</a>
 		</div>
 </div>
 
@@ -282,4 +280,36 @@
 
 
 	<footer class="fixed-bottom"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous">
+</script>
+<!--JavaScript at end of body for optimized loading-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+<!-- initialisation scripts for -->
+<script>
+	$('.materialboxed').materialbox();
+
+	$(window).click(function (event) {
+
+		setTimeout(function () {
+			// if there's an active materialboxed image,
+			// console.log($(".materialboxed.active").length)
+			if ($(".materialboxed.active").length) {
+				$('.materialboxed').css("opacity", "1")
+				// hide all inactive images and
+				$('.materialboxed:not(.active)').css("opacity", "0")
+				// turn off the pointer events
+				$('.image_div').css("pointer-events", "none")
+				$('.materialboxed:not(.active)').css("pointer-events", "none")
+			} else {
+				// else show all inactive images and
+				$('.materialboxed').css("opacity", "1")
+				// turn on the pointer events
+				$('.image_div').css("pointer-events", "auto")
+				$('.materialboxed:not(.active)').css("pointer-events", "auto")
+			}
+		}, 300)
+	})
+</script>
 </body>

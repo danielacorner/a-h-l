@@ -287,14 +287,19 @@ li{
   width: 150%;
   margin: 60px -50px 50px -50px;
   height: auto;
+  pointer-events: auto;
 }
 .row_images_single{
   display: grid;
   grid-template-columns: auto;
+  pointer-events: auto;
+
 }
 .row_images_single .image_div{
   margin: 0;
   width: 100%;
+  pointer-events: auto;
+
 }
 .row_images_double{
   margin-left: 10%;
@@ -317,7 +322,7 @@ li{
   width: 100%;
   height: auto;
 }
-.expand_overlay{
+/* .expand_overlay{
   position: absolute;
   top: 0;
   bottom: 0;
@@ -328,6 +333,7 @@ li{
   opacity: 0;
   transition: .5s ease;
   background-color: white;
+  pointer-events: none;
 }
 .fa-plus-circle{
   position: absolute;
@@ -338,14 +344,21 @@ li{
   text-align: center;
   color: grey;
   transition: .5s ease;
+} */
+.materialboxed{
+  pointer-events: auto;
+  cursor: zoom-in;
 }
-.image_div:hover .fa-plus-circle{
+.materialboxed.active{
+  cursor: zoom-out;
+}
+/* .image_div:hover .fa-plus-circle{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-.image_div:hover .expand_overlay{
+.image_div:hover .expand_overlay {
   opacity: 0.9;
-}
+} */
 .image-inline-block{
   margin: 10px 0;
   width: 100%;

@@ -157,11 +157,11 @@
 
 		<p>The project report included these slides on the heuristics analysis:</p>
 
-		<img class="image-inline-block" src="img/ISED_CMB_HeuristicsAnalysis1.png" style="margin-top: 5px"></img>
+		<img class="image-inline-block materialboxed" src="img/ISED_CMB_HeuristicsAnalysis1.png" style="margin-top: 5px"></img>
 
-		<img class="image-inline-block" src="img/ISED_CMB_HeuristicsAnalysis2.png"></img>
+		<img class="image-inline-block materialboxed" src="img/ISED_CMB_HeuristicsAnalysis2.png"></img>
 
-		<img class="image-inline-block" src="img/ISED_CMB_HeuristicsAnalysis3.png" style="margin-bottom: 40px"></img>
+		<img class="image-inline-block materialboxed" src="img/ISED_CMB_HeuristicsAnalysis3.png" style="margin-bottom: 40px"></img>
 
 		<h2>Information Architecture</h2>
 
@@ -200,28 +200,22 @@
 
 		<div class="row_images_triple">
 			<div class="image_div">
-				<a href="img/Action-based-IA.png">
-					<img class="image" src="img/ISED_CMB_Wires-14.png" alt="">
-					<div class="expand_overlay">
-						<i class="fas fa-2x fa-plus-circle"></i>
-					</div>
-				</a>
+					<img class="image materialboxed" src="img/ISED_CMB_Wires-14.png" alt=""/>
+					<!-- <div class="expand_overlay"> -->
+						<!-- <i class="fas fa-2x fa-plus-circle"></i> -->
+					<!-- </div> -->
 			</div>
 			<div class="image_div">
-				<a href="img/Product-based-IA.png">
-					<img class="image" src="img/ISED_CMB_Wires-15.png" alt="">
-					<div class="expand_overlay">
-						<i class="fas fa-2x fa-plus-circle"></i>
-					</div>
-				</a>
+					<img class="image materialboxed" src="img/ISED_CMB_Wires-15.png" alt=""/>
+					<!-- <div class="expand_overlay"> -->
+						<!-- <i class="fas fa-2x fa-plus-circle"></i> -->
+					<!-- </div> -->
 			</div>
 			<div class="image_div">
-				<a href="img/Product-based-IA.png">
-					<img class="image" src="img/ISED_CMB_Wires-16.png" alt="">
-					<div class="expand_overlay">
-						<i class="fas fa-2x fa-plus-circle"></i>
-					</div>
-				</a>
+					<img class="image materialboxed" src="img/ISED_CMB_Wires-16.png" alt=""/>
+					<!-- <div class="expand_overlay"> -->
+						<!-- <i class="fas fa-2x fa-plus-circle"></i> -->
+					<!-- </div> -->
 			</div>
 		</div>
 
@@ -240,6 +234,41 @@
 		<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
 		<!-- actions -->
 		<script src="js/js.js"></script>
+
+		<!-- jQuery -->
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			crossorigin="anonymous">
+		</script>
+		<!--JavaScript at end of body for optimized loading-->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+		<!-- initialisation scripts for -->
+		<script>
+		$(document).ready(function () {
+
+					$('.materialboxed').materialbox();
+		})
+			// $(window).click(function(event){
+				
+			// 	setTimeout(function(){
+			// 		// if there's an active materialboxed image,
+			// 		// console.log($(".materialboxed.active").length)
+			// 		if($(".materialboxed.active").length){
+			// 			$('.materialboxed').css("opacity","1")
+			// 			// hide all inactive images and
+			// 			$('.materialboxed:not(.active)').css("opacity","0")
+			// 			// turn off the pointer events
+			// 			$('.image_div').css("pointer-events","none")
+			// 			$('.materialboxed:not(.active)').css("pointer-events","none")
+			// 		} else {
+			// 			// else show all inactive images and
+			// 			$('.materialboxed').css("opacity","1")
+			// 			// turn on the pointer events
+			// 			$('.image_div').css("pointer-events","auto")
+			// 			$('.materialboxed:not(.active)').css("pointer-events","auto")
+			// 		}
+			// 	}, 300)
+			// })
+			</script>
 
 
 		<footer class="fixed-bottom"><a id="email-bottom" href="mailto:adriannehlee@gmail.com">adriannehlee@gmail.com</a></footer>

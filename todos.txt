@@ -1,6 +1,9 @@
 first:
+
+- materialize top nav (last pink one), side pop out is fine
+- materialize boxed on images
+
+
 - vertical-align menu button in mobile
 - lines overlap at top of page on mobile
 - project page gets hidden by top menu on mobile
-- materialize top nav (last pink one), side pop out is fine
-- materialize boxed on images
