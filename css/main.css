@@ -288,6 +288,7 @@ li{
   margin: 60px -50px 50px -50px;
   height: auto;
   pointer-events: auto;
+  z-index: 1;
 }
 .row_images_single{
   display: grid;
@@ -316,6 +317,7 @@ li{
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 5%;
+  position: relative;
 }
 .image_div img{
   display: block;
@@ -348,9 +350,22 @@ li{
 .materialboxed{
   pointer-events: auto;
   cursor: zoom-in;
+  z-index: 1;
+  position: relative;
+  /* position: relative; */
 }
 .materialboxed.active{
   cursor: zoom-out;
+  position: absolute;
+  z-index: 9;
+  /* left: 0;
+  top: 0; */
+}
+#materialbox-overlay{
+  background: rgb(50, 50, 50);
+  height: 100%;
+  width: 100%;
+  position: fixed;
 }
 /* .image_div:hover .fa-plus-circle{
   transform: translate(-50%, -50%);
